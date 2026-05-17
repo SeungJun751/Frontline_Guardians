@@ -18,7 +18,7 @@
 - **개발 환경**: Unity 6, C# (.NET), Photon PUN2, ScriptableObject
 - **장르**: TCG (Trading Card Game), Turn-Based Strategy, Multiplayer
 
-**📺 플레이 영상**: [YouTube](https://youtube.com/watch?v=tcg-game)  
+**📺 플레이 영상**: [YouTube](https://youtu.be/GCUG588E3Hs)  
 **🌐 포트폴리오**: [김승준 Portfolio](https://seungjun751.github.io)
 
 ---
