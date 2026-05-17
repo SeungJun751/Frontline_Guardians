@@ -13,8 +13,8 @@
 ## 📌 프로젝트 개요
 
 - **개발 기간**: 2025.07 ~ 2025.08 (2개월)
-- **개발 인원**: 2명 (프로그래머 2명)
-- **본인 역할**: Solo Developer (클라이언트 개발, 시스템 설계, 네트워크 동기화)
+- **개발 인원**: 2명
+- **본인 역할**: Lead Developer (클라이언트 개발, 시스템 설계, 네트워크 동기화, UI 등)
 - **개발 환경**: Unity 6, C# (.NET), Photon PUN2, ScriptableObject
 - **장르**: TCG (Trading Card Game), Turn-Based Strategy, Multiplayer
 
